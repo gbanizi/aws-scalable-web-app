@@ -1,0 +1,6 @@
+Bash
+cat << 'EOF' > .gitignore
+.DS_Store
+Thumbs.db
+*.tmp
+EOF
